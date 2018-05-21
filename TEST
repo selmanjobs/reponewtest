@@ -3,8 +3,4 @@ print n
 n = input( "Numerik bir ifade giriniz: ")
 print n
 ##dskhdfkdhhkd
-<<<<<<< HEAD
-# added this line for test git status -hfkdhfjdgdgfj
-=======
-# added this line for test git status - jhkdhfkdhfkdfhk
->>>>>>> 00893d009f6878f06b414c453685a1294e16c0c4
+
