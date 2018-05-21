@@ -1,0 +1,38 @@
+nux, (telaffuz: Amerikan İngilizcesinde: linək/ Lin-əks, Avrupa ve Kanada'da lɪnʊks / Lin-uks) Unix’e fikirsel ve teknik anlamda atıfta bulunaraktan geliştirilmiş; açık kaynak kodlu, özgür ve ücretsiz bir işletim sistemi çekirdeğidir.
+
+ 
+
+Çekirdeğin kaynak kodları GNU Genel Kamu Lisansı çerçevesinde özgürce dağıtılabilir, değiştirilebilir ve kullanılabilir. Linux ismi ilk olarak Linus Torvalds tarafından yazılan ve 5 Ekim 1991 Linux 0.02 etiketiyle duyurusu yapılan, Linux çekirdeğinden gelmektedir
+
+ 
+
+Linux, hemen her bilgisayar platformunda sorunsuzca kullanılabilmektedir. Çok geniş bir donanım desteğine sahip olan Linux; netbook, dizüstü bilgisayar, sunucu bilgisayarlar, iş istasyonu, akıllı telefon, masaüstü bilgisayarlar gibi hemen her platformda tam bir uyum içerisinde çalışabilmektedir.
+
+ 
+
+Ağırlıklı olarak sunucu ve iş istasyonu platformlarında tercih edilse de taşınabilir ve masaüstü sistemlerde de kullanım oranını günden güne arttırmaktadır. Ayrıca Linux sunucu-işletim sistemlerinde ilk sırada tercih edilmekte ve dünyanın 10 hızlı süper bilgisayarında da kullanılmaktadır[kaynak belirtilmeli].”
+
+ 
+
+ 
+
+Bu örnekte cursor(imleç) 2. Satırdaki kaynak kelimesinin başında duruyor. Eğer imlecin bulunduğu satır yani 2. Satırın başına gitmek istersek “0”a basıyoruz. İmleçten sonraki kelimelerin ve noktalama işaretlerinin olduğu yerlere gitmek istiyorsak “w” ile gidiyoruz. Geriye doğru gezinmek için b(ack)’ye basıyoruz. Satır sonu içinde “$” karakterini kullanıyoruz. 1G deseydik imlecimiz 1. Satıra gidecekti.
+nux, (telaffuz: Amerikan İngilizcesinde: linək/ Lin-əks, Avrupa ve Kanada'da lɪnʊks / Lin-uks) Unix’e fikirsel ve teknik anlamda atıfta bulunaraktan geliştirilmiş; açık kaynak kodlu, özgür ve ücretsiz bir işletim sistemi çekirdeğidir.
+
+ 
+
+Çekirdeğin kaynak kodları GNU Genel Kamu Lisansı çerçevesinde özgürce dağıtılabilir, değiştirilebilir ve kullanılabilir. Linux ismi ilk olarak Linus Torvalds tarafından yazılan ve 5 Ekim 1991 Linux 0.02 etiketiyle duyurusu yapılan, Linux çekirdeğinden gelmektedir.
+
+ 
+
+Linux, hemen her bilgisayar platformunda sorunsuzca kullanılabilmektedir. Çok geniş bir donanım desteğine sahip olan Linux; netbook, dizüstü bilgisayar, sunucu bilgisayarlar, iş istasyonu, akıllı telefon, masaüstü bilgisayarlar gibi hemen her platformda tam bir uyum içerisinde çalışabilmektedir.
+
+ 
+
+Ağırlıklı olarak sunucu ve iş istasyonu platformlarında tercih edilse de taşınabilir ve masaüstü sistemlerde de kullanım oranını günden güne arttırmaktadır. Ayrıca Linux sunucu-işletim sistemlerinde ilk sırada tercih edilmekte ve dünyanın 10 hızlı süper bilgisayarında da kullanılmaktadır[kaynak belirtilmeli].”
+
+ 
+
+ 
+
+Bu örnekte cursor(imleç) 2. Satırdaki kaynak kelimesinin başında duruyor. Eğer imlecin bulunduğu satır yani 2. Satırın başına gitmek istersek “0”a basıyoruz. İmleçten sonraki kelimelerin ve noktalama işaretlerinin olduğu yerlere gitmek istiyorsak “w” ile gidiyoruz. Geriye doğru gezinmek için b(ack)’ye basıyoruz. Satır sonu içinde “$” karakterini kullanıyoruz. 1G deseydik imlecimiz 1. Satıra gidecekti.
